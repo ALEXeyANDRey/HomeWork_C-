@@ -1,0 +1,15 @@
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.csproj.AssemblyReference.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.AssemblyInfoInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.AssemblyInfo.cs
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.csproj.CoreCompileInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\bin\Debug\net6.0\work2.exe
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\bin\Debug\net6.0\work2.deps.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\bin\Debug\net6.0\work2.runtimeconfig.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\bin\Debug\net6.0\work2.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\bin\Debug\net6.0\ref\work2.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\bin\Debug\net6.0\work2.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\ref\work2.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work2\obj\Debug\net6.0\work2.genruntimeconfig.cache
