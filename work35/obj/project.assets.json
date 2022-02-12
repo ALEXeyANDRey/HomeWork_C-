@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tenem\\OneDrive\\Рабочий стол\\HomeWork_C#\\work2\\work2.csproj",
-      "projectName": "work2",
-      "projectPath": "C:\\Users\\tenem\\OneDrive\\Рабочий стол\\HomeWork_C#\\work2\\work2.csproj",
+      "projectUniqueName": "C:\\Users\\tenem\\OneDrive\\Рабочий стол\\HomeWork_C#\\work35\\work35.csproj",
+      "projectName": "work35",
+      "projectPath": "C:\\Users\\tenem\\OneDrive\\Рабочий стол\\HomeWork_C#\\work35\\work35.csproj",
       "packagesPath": "C:\\Users\\tenem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tenem\\OneDrive\\Рабочий стол\\HomeWork_C#\\work2\\obj\\",
+      "outputPath": "C:\\Users\\tenem\\OneDrive\\Рабочий стол\\HomeWork_C#\\work35\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tenem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
