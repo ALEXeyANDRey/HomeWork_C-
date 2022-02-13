@@ -9,6 +9,6 @@ switch (num)
     case 4: Console.WriteLine("Четверг"); break;
     case 5: Console.WriteLine("Пятница"); break;
     case 6: Console.WriteLine("Суббота"); break;
-    case 7: Console.WriteLine("Воскресенье"); break;
+    case 7: Console.WriteLine("Воскресенье");break;
     default: Console.WriteLine("Неверно введен день недели"); break;
 }

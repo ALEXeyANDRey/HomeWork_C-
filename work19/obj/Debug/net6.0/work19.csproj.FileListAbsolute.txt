@@ -1,0 +1,15 @@
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.csproj.AssemblyReference.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.AssemblyInfoInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.AssemblyInfo.cs
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.csproj.CoreCompileInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\bin\Debug\net6.0\work19.exe
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\bin\Debug\net6.0\work19.deps.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\bin\Debug\net6.0\work19.runtimeconfig.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\bin\Debug\net6.0\work19.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\bin\Debug\net6.0\ref\work19.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\bin\Debug\net6.0\work19.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\ref\work19.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work19\obj\Debug\net6.0\work19.genruntimeconfig.cache
