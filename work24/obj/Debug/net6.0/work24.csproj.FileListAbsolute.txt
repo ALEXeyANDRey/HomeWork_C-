@@ -1,0 +1,15 @@
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\bin\Debug\net6.0\work24.exe
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\bin\Debug\net6.0\work24.deps.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\bin\Debug\net6.0\work24.runtimeconfig.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\bin\Debug\net6.0\work24.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\bin\Debug\net6.0\ref\work24.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\bin\Debug\net6.0\work24.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.csproj.AssemblyReference.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.AssemblyInfoInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.AssemblyInfo.cs
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.csproj.CoreCompileInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\ref\work24.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work24\obj\Debug\net6.0\work24.genruntimeconfig.cache

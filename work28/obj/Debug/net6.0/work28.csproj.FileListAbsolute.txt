@@ -1,0 +1,5 @@
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.csproj.AssemblyReference.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.AssemblyInfoInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.AssemblyInfo.cs
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.csproj.CoreCompileInputs.cache
