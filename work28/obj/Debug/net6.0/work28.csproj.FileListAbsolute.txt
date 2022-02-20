@@ -3,3 +3,13 @@ C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net
 C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.AssemblyInfoInputs.cache
 C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.AssemblyInfo.cs
 C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.csproj.CoreCompileInputs.cache
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\bin\Debug\net6.0\work28.exe
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\bin\Debug\net6.0\work28.deps.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\bin\Debug\net6.0\work28.runtimeconfig.json
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\bin\Debug\net6.0\work28.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\bin\Debug\net6.0\ref\work28.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\bin\Debug\net6.0\work28.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\ref\work28.dll
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.pdb
+C:\Users\tenem\OneDrive\Рабочий стол\HomeWork_C#\work28\obj\Debug\net6.0\work28.genruntimeconfig.cache

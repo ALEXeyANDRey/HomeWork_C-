@@ -1,6 +1,7 @@
 ﻿// Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
-
-for (!(x||y)==!x&&!y)
+bool x = 2;
+bool y ;
+if (!(x || y) == !x && !y)
 {
     System.Console.WriteLine("True");
 }
