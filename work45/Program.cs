@@ -1,5 +1,5 @@
 ﻿// Показать числа Фибоначчи
-int[] ArrayF =new int [20];
+int[] ArrayF =new int [10];
 ArrayF[0] = 1;
 ArrayF[1] = 1;
 for (int i = 2; i < ArrayF.Length; i++)
